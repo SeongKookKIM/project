@@ -1,0 +1,562 @@
+@media all and (max-width: 1260px) {
+  /* Descent */
+  #descent {
+    height: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column-reverse;
+  }
+  #descent .content-right {
+    width: 80%;
+    height: 600px;
+    background-size: 100%;
+  }
+  #descent .content-left {
+    width: 80%;
+    height: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+  }
+  #descent .content-left .main {
+    height: 400px;
+  }
+  #descent .content-left .main h4:nth-child(6) {
+    width: 180px;
+    display: inline-block;
+    margin-right: 70px;
+  }
+  #descent .content-left .main ul {
+    width: 500px;
+    display: inline-block;
+  }
+  #descent .content-left .main ul li {
+    float: left;
+  }
+  #descent .content-left .btn {
+    justify-content: center;
+  }
+  #descent .content-left .btn input {
+    margin: 0 20px;
+  }
+
+  /* kiaf */
+  #kiaf {
+    height: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+  }
+  #kiaf .content-left {
+    width: 80%;
+    height: 600px;
+    background-size: 100%;
+  }
+  #kiaf .content-right {
+    width: 80%;
+    height: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+  }
+  #kiaf .content-right .main {
+    height: 400px;
+    position: relative;
+  }
+  #kiaf .content-right .main h4:nth-child(6) {
+    width: 180px;
+    display: inline-block;
+    margin-right: 70px;
+  }
+  #kiaf .content-right .main ul {
+    width: 500px;
+    display: inline-block;
+    position: absolute;
+    bottom: 20px;
+  }
+  #kiaf .content-right .main ul li {
+    float: left;
+  }
+  #kiaf .content-right .btn {
+    justify-content: center;
+  }
+  #kiaf .content-right .btn input {
+    margin: 0 20px;
+  }
+
+  /* Daesang */
+
+  #daesang {
+    height: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column-reverse;
+  }
+  #daesang .content-right {
+    width: 80%;
+    height: 600px;
+    background-size: 100%;
+  }
+  #daesang .content-left {
+    width: 80%;
+    height: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+  }
+  #daesang .content-left .main {
+    height: 400px;
+    position: relative;
+  }
+  #daesang .content-left .main h4:nth-child(6) {
+    width: 180px;
+    display: inline-block;
+    margin-right: 70px;
+  }
+  #daesang .content-left .main ul {
+    width: 500px;
+    display: inline-block;
+    position: absolute;
+    bottom: 20px;
+  }
+  #daesang .content-left .main ul li {
+    float: left;
+  }
+  #daesang .content-left .btn {
+    justify-content: center;
+  }
+  #daesang .content-left .btn input {
+    margin: 0 20px;
+  }
+
+  /* kiaf */
+  #cgv {
+    height: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+  }
+  #cgv .content-left {
+    width: 80%;
+    height: 600px;
+    background-size: 100%;
+  }
+  #cgv .content-right {
+    width: 80%;
+    height: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+  }
+  #cgv .content-right .main {
+    height: 400px;
+    position: relative;
+  }
+  #cgv .content-right .main h4:nth-child(6) {
+    width: 180px;
+    display: inline-block;
+    margin-right: 70px;
+  }
+  #cgv .content-right .main ul {
+    width: 500px;
+    display: inline-block;
+    position: absolute;
+    bottom: 20px;
+  }
+  #cgv .content-right .main ul li {
+    float: left;
+  }
+  #cgv .content-right .btn {
+    justify-content: center;
+  }
+  #cgv .content-right .btn input {
+    margin: 0 20px;
+  }
+
+  /* Portfolio */
+
+  #portfolio {
+    height: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column-reverse;
+  }
+  #portfolio .content-right {
+    width: 80%;
+    height: 600px;
+    background-size: 100%;
+  }
+  #portfolio .content-left {
+    width: 80%;
+    height: 100%;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+  }
+  #daesportfolioang .content-left .main {
+    height: 400px;
+    position: relative;
+  }
+  #portfolio .content-left .main h4:nth-child(6) {
+    width: 180px;
+    display: inline-block;
+    margin-right: 70px;
+  }
+  #portfolio .content-left .main ul {
+    width: 500px;
+    display: inline-block;
+    position: absolute;
+    bottom: 20px;
+  }
+  #portfolio .content-left .main ul li {
+    float: left;
+  }
+  #portfolio .content-left .btn {
+    justify-content: center;
+  }
+  #portfolio .content-left .btn input {
+    margin: 0 20px;
+  }
+}
+
+@media all and (max-width: 790px) {
+  /* Descent */
+  #descent .content-left .title {
+    margin-top: 10px;
+  }
+  #descent .content-left .title h3 {
+    font-size: 2em;
+  }
+  #descent .content-left .title h3 span {
+    font-size: 1.5em;
+    margin-right: 20px;
+  }
+  #descent .content-left .main h4 {
+    font-size: 1.1em;
+  }
+  #descent .content-left .main h4 span {
+    width: 150px;
+    margin-right: 0;
+  }
+  #portfolio .content-left .main ul {
+    width: 500px;
+    display: flex;
+  }
+
+  /* Kiaf */
+  #kiaf .content-right .title {
+    margin-top: 10px;
+  }
+  #kiaf .content-right .title h3 {
+    font-size: 2em;
+  }
+  #kiaf .content-right .title h3 span {
+    font-size: 1.5em;
+    margin-right: 20px;
+  }
+
+  #kiaf .content-right .main h4 {
+    font-size: 1.1em;
+  }
+  #kiaf .content-right .main h4 span {
+    width: 150px;
+    margin-right: 0;
+  }
+  #kiaf .content-right .main {
+    height: 430px;
+  }
+  #kiaf .content-right .main h4:nth-child(6) {
+    width: 100%;
+  }
+  #kiaf .content-right .main ul {
+    display: block;
+    width: 100%;
+  }
+
+  /* Daesang */
+  #daesang .content-left .title {
+    margin-top: 10px;
+  }
+  #daesang .content-left .title h3 {
+    font-size: 2em;
+  }
+  #daesang .content-left .title h3 span {
+    font-size: 1.5em;
+    margin-right: 20px;
+  }
+
+  #daesang .content-left .main h4 {
+    font-size: 1.1em;
+  }
+  #daesang .content-left .main h4 span {
+    width: 150px;
+    margin-right: 0;
+  }
+  #daesang .content-left .main {
+    height: 430px;
+  }
+  #daesang .content-left .main h4:nth-child(6) {
+    width: 100%;
+  }
+  #daesang .content-left .main ul {
+    display: block;
+    width: 100%;
+  }
+
+  /* Cgv */
+  #cgv .content-right .title {
+    margin-top: 10px;
+  }
+  #cgv .content-right .title h3 {
+    font-size: 2em;
+  }
+  #cgv .content-right .title h3 span {
+    font-size: 1.5em;
+    margin-right: 20px;
+  }
+
+  #cgv .content-right .main h4 {
+    font-size: 1.1em;
+  }
+  #cgv .content-right .main h4 span {
+    width: 150px;
+    margin-right: 0;
+  }
+  #cgv .content-right .main {
+    height: 430px;
+  }
+  #cgv .content-right .main h4:nth-child(6) {
+    width: 100%;
+  }
+  #cgv .content-right .main ul {
+    display: block;
+    width: 100%;
+  }
+
+  /* Portfolio */
+  #portfolio .content-left .title {
+    margin-top: 10px;
+  }
+  #portfolio .content-left .title h3 {
+    font-size: 2em;
+  }
+  #portfolio .content-left .title h3 span {
+    font-size: 1.5em;
+    margin-right: 20px;
+  }
+
+  #portfolio .content-left .main h4 {
+    font-size: 1.1em;
+  }
+  #portfolio .content-left .main h4 span {
+    width: 150px;
+    margin-right: 0;
+  }
+  #portfolio .content-left .main {
+    height: 450px;
+    position: relative;
+  }
+  #portfolio .content-left .main h4:nth-child(6) {
+    width: 100%;
+  }
+  #portfolio .content-left .main ul {
+    display: block;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+  }
+}
+
+@media all and (max-width: 600px) {
+  section {
+    margin-bottom: 30px;
+  }
+  #project .header-text-wrapper .header-text::before {
+    width: 200px;
+  }
+  #project .header-text-wrapper .header-text::after {
+    width: 200px;
+  }
+  #project .header-text-wrapper .header-text .clip-path h1 {
+    font-size: 5em;
+  }
+  #project .header-text-wrapper .header-text h2 {
+    font-size: 3em;
+  }
+  #project .header-text-wrapper p {
+    font-size: 1em;
+  }
+  #descent .content-right {
+    width: 95%;
+    height: 300px;
+  }
+  #descent .content-left {
+    width: 90%;
+  }
+  #daesang .content-right {
+    width: 95%;
+    height: 300px;
+  }
+  #daesang .content-left {
+    width: 90%;
+  }
+  #portfolio .content-right {
+    width: 95%;
+    height: 300px;
+  }
+  #portfolio .content-left {
+    width: 90%;
+  }
+  #kiaf .content-left {
+    width: 95%;
+    height: 300px;
+  }
+  #kiaf .content-right {
+    width: 90%;
+  }
+  #cgv .content-left {
+    width: 95%;
+    height: 300px;
+  }
+  #cgv .content-right {
+    width: 90%;
+  }
+  #descent .content-left .main h4 .color-box div {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+  }
+  #kiaf .content-right .main h4 .color-box div {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+  }
+  #daesang .content-left .main h4 .color-box div {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+  }
+  #cgv .content-right .main h4 .color-box div {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+  }
+  #portfolio .content-left .main h4 .color-box div {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+  }
+  #descent .content-left .main ul {
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  #descent .content-left .main ul li {
+    width: 30%;
+    text-align: left;
+    margin-bottom: 15px;
+  }
+  #descent .content-left .main ul li p {
+    font-size: 1em;
+  }
+  #descent .content-left .btn input {
+    width: 150px;
+    height: 30px;
+    font-size: 1em;
+  }
+  #kaif .content-right .main ul {
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  #kiaf .content-right .main ul li {
+    width: 30%;
+    text-align: left;
+    margin-bottom: 15px;
+  }
+  #kiaf .content-right .main ul li p {
+    font-size: 1em;
+  }
+  #kiaf .content-right .btn input {
+    width: 150px;
+    height: 30px;
+    font-size: 1em;
+  }
+  #daesang .content-left .main ul {
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  #daesang .content-left .main ul li {
+    width: 30%;
+    text-align: left;
+    margin-bottom: 15px;
+  }
+  #daesang .content-left .main ul li p {
+    font-size: 1em;
+  }
+  #daesang .content-left .btn input {
+    width: 150px;
+    height: 30px;
+    font-size: 1em;
+  }
+  #cgv .content-right .main ul {
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  #cgv .content-right .main ul li {
+    width: 30%;
+    text-align: left;
+    margin-bottom: 15px;
+  }
+  #cgv .content-right .main ul li p {
+    font-size: 1em;
+  }
+  #cgv .content-right .btn input {
+    width: 150px;
+    height: 30px;
+    font-size: 1em;
+  }
+  #portfolio .content-left .main ul {
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  #portfolio .content-left .main ul li {
+    width: 30%;
+    text-align: left;
+    margin-bottom: 15px;
+  }
+  #portfolio .content-left .main ul li p {
+    font-size: 1em;
+  }
+  #portfolio .content-left .btn input {
+    width: 150px;
+    height: 30px;
+    font-size: 1em;
+  }
+}
