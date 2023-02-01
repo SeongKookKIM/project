@@ -45,6 +45,7 @@ section {
   flex-flow: column;
   align-items: center;
   margin-bottom: 100px;
+  min-height: 600px;
 }
 #project .header-text-wrapper {
   width: 1000px;
